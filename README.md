@@ -1,6 +1,6 @@
 # Wisconsin-Diagnostic-Breast-Cancer
 
-The objective of this project was to choose a dataset, verify the source of the data, and perform end-to-end data analyis process. The data analysis process included steps - reading and cleaning the data; exploratory data analysis to understand the ditribution of the data, evaluate ouliers, and examine correaltions between features and diagnosis; and building and verifying the model using regression analysis.
+The objective of this project was to choose a dataset, verify the source of the data, and perform end-to-end data analysis process. The data analysis process included steps - reading and cleaning the data; exploratory data analysis to understand the distribution of the data, evaluate outliers, and examine correlations between features and target variables; and building and verifying the model using regression analysis.
 
 ## Dataset Description
 
